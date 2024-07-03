@@ -1,12 +1,12 @@
 # User Management Script
 
-This bash script automates the process of creating new users, assigning them to groups, generating passwords, and setting up home directories with appropriate permissions. The script also logs each step to a log file and securely stores the generated passwords.
+This bash script streamlines the creation of new users, group assignments, password generation, and home directory setup with proper permissions. Additionally, it logs each step in a log file and securely stores the generated passwords.
 
 ## Requirements
 
-- This script must be run as the root user or with sudo privileges.
-- Ensure you have the necessary permissions to create users and groups on your system.
-- Ensure you have the necessary permissions to create files in /var/log and /var/secure.
+-This script requires root user access or sudo privileges.
+-Verify that you have the necessary permissions to create users and groups on your system.
+-Confirm that you have the necessary permissions to create files in /var/log and /var/secure.
 
 ## Files
 
@@ -36,7 +36,7 @@ Each line represents one user.
 
 1. Clone this repository
 ```
-git clone https://github.com/laraadeboye/user-creation-script.git
+git clone https://github.com/Danjola/Hng_stage1_Task1.
 
 cd user-creation-script
 ```
