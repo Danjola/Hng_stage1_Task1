@@ -26,9 +26,9 @@ Each line represents one user.
 
    Example input file:
    ```
-   alice;sudo,dev
-   bob;dev,www-data
-   charlie;sudo,admin
+   eunice;sudo,dev
+   Dan;dev,www-data
+   Praise;sudo,admin
 
    ```
 
